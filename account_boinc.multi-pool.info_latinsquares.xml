@@ -1,0 +1,32 @@
+<account>
+    <master_url>https://boinc.multi-pool.info/latinsquares/</master_url>
+    <authenticator>3978_37c1cc42fd90e0d2068eaceac9001c25</authenticator>
+    <project_name>latinsquares</project_name>
+<project_preferences>
+</project_preferences>
+<gui_urls>
+
+    <gui_url>
+        <name>Message boards</name>
+        <description>Correspond with other users on the latinsquares message boards</description>
+        <url>https://boinc.multi-pool.info/latinsquares/forum_index.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Your account</name>
+        <description>View your account information</description>
+        <url>https://boinc.multi-pool.info/latinsquares/home.php</url>
+    </gui_url>
+    <gui_url>
+        <name>Your tasks</name>
+        <description>View the last week or so of computational work</description>
+        <url>https://boinc.multi-pool.info/latinsquares/results.php?userid=3978</url>
+    </gui_url>
+    <ifteam>
+        <gui_url>
+            <name>Your team</name>
+            <description>View information about your team: Gridcoin</description>
+            <url>https://boinc.multi-pool.info/latinsquares/team_display.php?teamid=48</url>
+        </gui_url>
+    </ifteam>
+</gui_urls>
+</account>
