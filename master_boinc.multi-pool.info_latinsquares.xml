@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+        <html lang="en">
+        <head>
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <scheduler>http://78.26.93.125/latinsquares_cgi/cgi</scheduler> -->
+<link rel="boinc_scheduler" href="http://78.26.93.125/latinsquares_cgi/cgi">
+<title>ODLK1</title>
+
+        <meta charset="utf-8">
+    
+            <link type="text/css" rel="stylesheet" href="https://boinc.multi-pool.info/latinsquares//bootstrap.min.css" media="all">
+        
+        <link rel=alternate type="application/rss+xml" title="RSS 2.0" href="https://boinc.multi-pool.info/latinsquares/rss_main.php">
+        </head>
+    <body >
+<!-- SVN VERSIONS -->
+<!-- $Id$ -->
+<!-- $Id: pm.inc 14019 2007-11-01 23:04:39Z davea $ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<div class="container-fluid">
+    <img class="img-responsive" src="img/main_logo.png"><nav class="navbar navbar-default">
+
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href=https://boinc.multi-pool.info/latinsquares/>ODLK1</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+    
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Project
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+    <li><a href="https://boinc.multi-pool.info/latinsquares/about.php">About ODLK1</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/welcome.php">Help</a></li>
+            
+        </ul>
+      </li>
+    
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Computing
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+    <li><a href="https://boinc.multi-pool.info/latinsquares/prefs.php?subset=global">Preferences</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/server_status.php">Server status</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/stats.php">Credit statistics</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/apps.php">Applications</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/gpu_list.php">GPU models</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/cpu_list.php">CPU models</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/host_stats.php">Computer types</a></li>
+            
+        </ul>
+      </li>
+    
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Community
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+    <li><a href="https://boinc.multi-pool.info/latinsquares/forum_index.php">Message boards</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/team.php">Teams</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/profile_menu.php">Profiles</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/edit_forum_preferences_form.php">Preferences</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/user_search.php">User search</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/uotd.php">User of the day</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/cert1.php">Certificate</a></li>
+            
+        </ul>
+      </li>
+    
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Site
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+    <li><a href="https://boinc.multi-pool.info/latinsquares/site_search.php">Site search</a></li>
+            <li><a href="https://boinc.multi-pool.info/latinsquares/language_select.php">Languages</a></li>
+            
+        </ul>
+      </li>
+    
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+    
+                <li><a href="https://boinc.multi-pool.info/latinsquares/signup.php">Join</a></li>
+                <li><a href="https://boinc.multi-pool.info/latinsquares/login_form.php">Login</a></li>
+                
+      </ul>
+    </div>
+  </div>
+</nav>
+    
+        <div class="container-fluid">
+    
+            <div class="row">
+            <div class="col-sm-12">
+        
+            </div>
+            </div>
+        
+        <div class="row">
+        <div class="col-sm-6">
+    <div class="panel panel-primary">
+        
+            <div class="panel-heading">
+                <h1 class="panel-title">What is ODLK1?</h1>
+            </div>
+        <div class="panel-body ">
+        
+                    <p>
+                    BOINC-project ODLK1 continues to solve the problem of BOINC-project ODLK. <br>
+                    The project generates a database of canonical forms (CF) of diagonal Latin squares (DLS) of order 10 having orthogonal diagonal Latin squares (ODLS).<br>
+                    The necessary definitions for the theme can be found here:           
+                    </p>
+                
+                <ul>
+                <li> <a href="https://en.wikipedia.org/wiki/Latin_square">Latin square [English]</a>
+                <li> <a href="https://ru.wikipedia.org/wiki/Латинский%20квадрат"#>Latin square [Russian]</a>
+                </ul>
+            </ul><center><a href="join.php" class="btn btn-success"><font size=+2>Join ODLK1</font></a></center>
+                    
+        </div>
+        </div>
+    <div class="panel panel-primary">
+        
+            <div class="panel-heading">
+                <h1 class="panel-title">User of the Day</h1>
+            </div>
+        <div class="panel-body ">
+        <a href="https://boinc.multi-pool.info/latinsquares/view_profile.php?userid=26616"><img border=0 vspace=4 hspace=8 align=left src="https://boinc.multi-pool.info/latinsquares/user_profile/images/26616_sm.jpg" alt="User profile"></a> <a href="https://boinc.multi-pool.info/latinsquares/view_profile.php?userid=26616"><img title="View the profile of [AF] mAxYmUs83" src="https://boinc.multi-pool.info/latinsquares/img/head_20.png" alt="Profile"></a> <a href="https://boinc.multi-pool.info/latinsquares/show_user.php?userid=26616">[AF] mAxYmUs83</a><img title="100K total credit" valign=top height=32 src=img/pct_100K.png> <img title="300K total credit" valign=top height=32 src=img/pct_300K.png> <br>My name is Fabrice alias [AF]mAxYmUs83. I live in France.
+I have been involved in crowd crunching projects since 2005. I joined the Alliance...
+        </div>
+        </div>
+    
+        </div>
+        <div class="col-sm-6">
+    <div class="panel panel-primary">
+        
+            <div class="panel-heading">
+                <h1 class="panel-title">News</h1>
+            </div>
+        <div class="panel-body ">
+        <p><span class="lead">New K-Tuple competition</span><br>
+
+        With the new year we organized a new <b>K-Tuple competition</b>: <br />
+<br />
+<a href="https://primesmagicgames.altervista.org/wp/primes-k-tuple-2/" rel="nofollow">https://primesmagicgames.altervista.org/wp/primes-k-tuple-2/</a><br />
+<br />
+The competition will last 3 months and is for finding new result about some k-tuple open problems (there are 7 tasks).<br />
+<br />
+Unless this Boinc project were all contribute to find solutions in latin squares field donating CPU power, the competition is for people that like to code programs and experiment with mathematics to find new solution by them-self.<br />
+<br />
+For this project instead, the DB with all the solutions will be available as soon as November and December months will be finished to being processed for dividing the solution by their ranks.<br />
+<br />
+Thanks
+        <br>
+        <span class="small">5 Jan 2024, 12:26:43 UTC
+    
+            &middot; <a href="https://boinc.multi-pool.info/latinsquares/forum_thread.php?id=198"> Discuss</a>
+        </span>
+        <br clear=all>
+        <hr>
+    <p><span class="lead">Server problems</span><br>
+
+        Hi,<br />
+<br />
+during the holiday one disk of the server suddenly died, so it gets unavailable.<br />
+<br />
+Unfortunately I come back from holiday a week later, so all workunits and credits were already time out at that time.<br />
+<br />
+Disk died on 20 Aug during the day. The DB is the one of 8:00 as it from a clean backup (all WU and result where not touched from the disk damages, however some WU may be missed into the DB for credits, but not for the results collected).<br />
+<br />
+As the server were using an old SO that soon will go out of update, I go for installing even the new version of the server, for having years of updates.<br />
+<br />
+Now there is still some problems in configuring all the services as there are incompatibility from old to new libraries, so you should considerate to reactivate your ODLK1 calculation for the next week at least.<br />
+<br />
+However, bookmark this page: http://boinc-status.multi-pool.info/<br />
+<br />
+This is in another server, so in case of problems you can see the state of ODLK1 there (unless the internet connection is broken, as both uses the same one).<br />
+<br />
+Thanks
+        <br>
+        <span class="small">9 Sep 2023, 11:09:55 UTC
+    
+            &middot; <a href="https://boinc.multi-pool.info/latinsquares/forum_thread.php?id=190"> Discuss</a>
+        </span>
+        <br clear=all>
+        <hr>
+    <p><span class="lead">Holiday</span><br>
+
+        hi,<br />
+<br />
+from tomorrow I will be on holiday for max 15 days without server access, so be sure to add a backup Boinc project in case of server problem.
+        <br>
+        <span class="small">11 Aug 2023, 11:20:13 UTC
+    
+            &middot; <a href="https://boinc.multi-pool.info/latinsquares/forum_thread.php?id=189"> Discuss</a>
+        </span>
+        <br clear=all>
+        <hr>
+    <p><span class="lead">New BOINC project</span><br>
+
+        In the BOINC project Gerasim@Home, one of my projects "Symmetric Tuples from Sequential Primes" is launched.<br />
+<a href="https://gerasim.boinc.ru/news/news.aspx?id=131" rel="nofollow">https://gerasim.boinc.ru/news/news.aspx?id=131</a><br />
+<br />
+Please participate in the "Get Symmetrical Tuples" Application!
+        <br>
+        <span class="small">14 Jul 2023, 5:25:54 UTC
+    
+            &middot; <a href="https://boinc.multi-pool.info/latinsquares/forum_thread.php?id=188"> Discuss</a>
+        </span>
+        <br clear=all>
+        <hr>
+    <p>
+        The results of the ODLK1 project for July-September 2022 have been published.<br />
+<br />
+Application odlk3: 350094 CF ODLK;<br />
+Application odlkmax: 342181 CF ODLK.<br />
+<br />
+Yandex.Disk<br />
+<a href="https://disk.yandex.ru/d/RsHtIf6bCWV8xg" rel="nofollow">https://disk.yandex.ru/d/RsHtIf6bCWV8xg</a><br />
+Archive <b>ODLK1_Jul-Sep2022_named.7z</b><br />
+11.1 MB.
+        <br>
+        <span class="small">14 Oct 2022, 8:31:12 UTC
+    
+            &middot; <a href="https://boinc.multi-pool.info/latinsquares/forum_thread.php?id=175"> Discuss</a>
+        </span>
+        <br clear=all>
+        <hr>
+    <a href=https://boinc.multi-pool.info/latinsquares/old_news.php>... more</a>
+        <br><br><small>
+    News is available as an <a href=rss_main.php>RSS feed &nbsp; <img src="img/rss_icon.gif" alt="RSS"></a>
+        </small>
+    
+        </div>
+        </div>
+    
+        </div>
+        </div>
+        </div>
+    <br>
+<p></p>
+        <a class="brand boinc-logo" href="http://boinc.berkeley.edu/"><img align="middle" border="0" src="https://boinc.multi-pool.info/latinsquares/img/pb_boinc.gif" alt="Powered by BOINC"></a>
+        <br>
+        <p class="text-center"> &copy;2024 Progger & Stefano Tognon (ice00)</p>
+    
+        <script src="https://boinc.multi-pool.info/latinsquares//jquery.min.js"></script>
+        <script src="https://boinc.multi-pool.info/latinsquares//bootstrap.min.js"></script>
+        </div>
+        </body>
+        </html>
+    

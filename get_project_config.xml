@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project_config>
+    <name>grc.arikado.ru</name>
+    <min_passwd_length>8</min_passwd_length>
+    <account_manager/>
+    <uses_username/>
+    <client_account_creation_disabled/>
+</project_config>
